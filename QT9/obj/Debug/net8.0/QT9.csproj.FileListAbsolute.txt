@@ -12,3 +12,9 @@ C:\Users\j02\Documents\alicerocha\LogicaDeProgramacao\c#\lista1\QT9\obj\Debug\ne
 C:\Users\j02\Documents\alicerocha\LogicaDeProgramacao\c#\lista1\QT9\obj\Debug\net8.0\QT9.pdb
 C:\Users\j02\Documents\alicerocha\LogicaDeProgramacao\c#\lista1\QT9\obj\Debug\net8.0\QT9.genruntimeconfig.cache
 C:\Users\j02\Documents\alicerocha\LogicaDeProgramacao\c#\lista1\QT9\obj\Debug\net8.0\ref\QT9.dll
+C:\Users\j02\Documents\alicerocha\LogicaDeProgramacao\c#\lista1\QT9\build\QT9.exe
+C:\Users\j02\Documents\alicerocha\LogicaDeProgramacao\c#\lista1\QT9\build\QT9.deps.json
+C:\Users\j02\Documents\alicerocha\LogicaDeProgramacao\c#\lista1\QT9\build\QT9.runtimeconfig.json
+C:\Users\j02\Documents\alicerocha\LogicaDeProgramacao\c#\lista1\QT9\build\QT9.dll
+C:\Users\j02\Documents\alicerocha\LogicaDeProgramacao\c#\lista1\QT9\build\QT9.pdb
+C:\Users\j02\Documents\alicerocha\LogicaDeProgramacao\c#\lista1\QT9\obj\Debug\net8.0\QT9.sourcelink.json
